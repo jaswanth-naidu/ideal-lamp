@@ -1,0 +1,77 @@
+1:What will the following code segment print?
+
+print(“Career”)
+print(“Labs”)
+
+ANSWER==Career Labs(in next line) 
+
+2:What will be the output of the given code segment?
+
+a = 10
+b = 20 
+multiple = a*b
+print(“multiple”)
+
+ANSWER==multiple
+
+3:Select correct variable name(s) -
+
+ANSWER== var1 
+        var_1 
+        _var1
+4:What will be the result of following code in Python ?
+
+x = 10
+x = "abcd"
+print(x)
+ANSWER== abcd
+
+5:Consider the python code below -
+x = "abcd"
+x = 10
+What is the type of x after the code executes 
+
+ANSWER== int
+
+6:Will id1 and id2 have same value?
+
+a = 10
+id1 = id(a)
+b = a + 2-2
+id2 = id(b)
+
+ANSWER== yes
+
+7:What will be the output of following statement?
+print(17//10)
+
+ANSWER==1
+
+8:What will be the output of following statement?
+print(17/10)
+
+ANSWER==1.7
+
+9:What will be the output of the code if input provided is 40 and 57 ?
+a = input()
+b= input()
+C = a+b
+print(C)
+
+ANSWER=="4057"
+
+10:What will be the output of the code if input provided is 40 and 57 ?
+a =int (input())
+b= int (input())
+C = a+b
+print(C)
+
+ANSWER==97
+
+11:What will be the output of the code if input provided is “abc” and “def”?
+a = int(input())
+b=int(input())
+C = a+b
+print(C)
+
+ANSWER== VALUE ERROR
